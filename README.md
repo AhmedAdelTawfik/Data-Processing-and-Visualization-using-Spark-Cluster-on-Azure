@@ -8,7 +8,6 @@ This project provides an end-to-end data processing and visualization of visa nu
 - [Features](#-features)
 - [Notes](#-notes)
 - [Link to Project Reference](#-link-to-project-reference)
-- [Video Reference](#-video-reference)
 
 ## ✨ System Architecture
 ![System Architecture](System_Architecture/Sparkcluster_architecture.png)
@@ -44,5 +43,3 @@ This project provides an end-to-end data processing and visualization of visa nu
 ## 🔗 Link to Project Reference
 https://github.com/airscholar/Japan-visa-data-engineering
 
-## 🎥 Video Reference
-[![Japan Visa Analysis: Azure Data End to End Data Engineering](https://img.youtube.com/vi/f-IcM8mFmDc/0.jpg)](https://youtu.be/f-IcM8mFmDc)
